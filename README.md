@@ -3,10 +3,10 @@
 Welcome to my Github and Portfolio! I'm a web developer, DevOps in formation and Engineer.
 
 **Contact Info**
-e-mail: afonsolelis@gmail.com
-mobile: +5511978105781 [whatsapp][telegram]
-linkedIn: https://www.linkedin.com/in/afonsolelis/
-github: https://github.com/afonsolelis
+- e-mail: afonsolelis@gmail.com
+- mobile: +5511978105781 [whatsapp][telegram]
+- linkedIn: https://www.linkedin.com/in/afonsolelis/
+- github: https://github.com/afonsolelis
 
 
 ## AFONSO CESAR LELIS BRANDÃO
@@ -40,10 +40,10 @@ github: https://github.com/afonsolelis
 
 ### FORMAL EDUCATION
 **SYSTEM ANALYSIS AND DEVELOPMENT** *SENAC Santo Amaro* [2021] to [mid 2023]
-Technology Degree
+- Technologic Degree
 **CIVIL ENGINEER** *University of Amazon* [2013] to [2015]
-Bachelor's Degree
+- Bachelor's Degree
 **MATERIALS ENGINEER** *Mackenzie Presbiterian University* [2012] to [mid 2014]
-Master's Degree
+- Master's Degree
 **PRODUCTION [INDUSTRIAL] ENGINEER** *University of Amazon* [2007] to [2011]
-Bachelor's Degree
+- Bachelor's Degree
