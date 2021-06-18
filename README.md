@@ -47,3 +47,7 @@ Welcome to my Github and Portfolio! I'm a web developer, DevOps in formation and
 - Master's Degree
 **PRODUCTION [INDUSTRIAL] ENGINEER** *University of Amazon* [2007] to [2011]
 - Bachelor's Degree
+
+### BOOTCAMP
+**LE WAGON** [oct 2020] to [dec 2023]
+- 9-week full-time intensive coding bootcamp learning HTML, CSS, Bootstrap, JavaScript ES6, SQL, git, GitHub, Heroku and Ruby on Rails. Designed, implemented and shipped to production a clone of AirBnB and a Rails prototype.
