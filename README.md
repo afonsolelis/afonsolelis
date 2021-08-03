@@ -65,7 +65,7 @@ Welcome to my Github and Portfolio! I'm a web developer, DevOps in formation and
 
 **MATERIALS ENGINEER** *Mackenzie Presbiterian University* [2012] to [mid 2014]
 - Master's Degree
-- Publication: https://www.amazon.com.br/Civil-Lelis-Brand%C3%A3o-Afonso-Cesar-Engenharia/s?rh=n%3A7874260011%2Cp_27%3ALelis+Brand%C3%A3o+Afonso+Cesar
+- Publication (my first book): https://www.amazon.com.br/Civil-Lelis-Brand%C3%A3o-Afonso-Cesar-Engenharia/s?rh=n%3A7874260011%2Cp_27%3ALelis+Brand%C3%A3o+Afonso+Cesar
 
 **PRODUCTION [INDUSTRIAL] ENGINEER** *University of Amazon* [2007] to [2011]
 - Bachelor's Degree
