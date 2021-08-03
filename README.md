@@ -26,25 +26,34 @@ Welcome to my Github and Portfolio! I'm a web developer, DevOps in formation and
 -   Responsible for the statistics and operations classes in engineering courses;
 -   Coordinator of enginnering courses;
 
+**NASSAU UNIVERSITY** *PROFESSOR* [2019] to [2020]
+-   Responsible for the financial and operations classes;
+
 **METROPOLITAN UNIVERSITY CENTER OF AMAZON** *PROFESSOR* [2016] to [2020]
 -   http://sites.ufca.edu.br/ebooks/wp-content/uploads/sites/22/2018/11/EPPEI-1-final.pdf (publication of EduScrum in university class rooms)
 -   Responsible with Operation Classes in Business courses;
 -   Responsible with Statistics Classes;
 -   Responsible with Operational Research in Production Engineering course;
 
+*UNYLEYA UNIVERSITY** *ONLINE TUTOR AND CONTENT CREATOR* [2018] to [present]
+-   Responsible for urban real estate valuation module;
+
 **PREMAZON** *REGIONAL MANAGER* [2010] to [2015]
 - Regional manager of manufacturing plants.
 
 **INDUSTRIAL AND STATISTICS DATA CONSULTANT** [2010][present]
 
-**BUSINESS MANAGEMENT CONSULTANT** [2010][present]
+**BUSINESS/COSTS MANAGEMENT CONSULTANT** [2010][present]
+
+**REAL STATE VALUATOR** [2010][present]
 
 ### EXPERTISE
 - Ruby on Rails, Postgres, MySQL, Cloud AWS & Azure, Heroku, VScode, CloudTree, Bootstrap,
 - Algorithms and Logic using Ruby, Java ans Javascript, but open to learn new coding languages and frameworks.
 - Industrial Plant management, teams management and class teaching - using SCRUM, JIRA and other frameworks (including [EduScrum](https://www.scrum.org/) in classes since 2017)
-- ISO and PROCEM regulation,quality assurance of manufacturing process.
-- Advanced English (Certification: FCE Cambridge)
+- ISO and PROCEM regulation,quality assurance of manufacturing process;
+- Real state valuations;
+- Advanced English (Certification: FCE Cambridge).
 
 ### FORMAL EDUCATION
 **SYSTEM ANALYSIS AND DEVELOPMENT** *UNG* [2021] to [2022]
