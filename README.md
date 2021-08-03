@@ -13,33 +13,41 @@ Welcome to my Github and Portfolio! I'm a web developer, DevOps in formation and
 
 - Developer with experience in Ruby on Rails full-stack;
 - Experience with Total Quality Management and statistics;
-- Experience with multitask and skilled teams.
+- Experience with management of multitask and skilled teams;
+- Experience with inovative class rooms;
 
 ### EXPERIENCE
 
-**OPSICO** *DEVELOPER* [march 2021] to [present]
--   Full Stack developer using Ruby on Rails;
--   Helping to adjust work process for new developers;
+**DEVELOPER PROJECTS WITH RUBY ON RAILS**
+-   OPSICO [FULL-STACK][since march 2021];
+-   SEU GURU [BACK-END][since july 2021];
 
-**UNIVERSITY OF AMAZON** *PROFESSOR* [2016] to [2020]
+**UNIVERSITY OF AMAZON** *PROFESSOR AND COORDINATOR* [2018] to [2020]
 -   Responsible for the statistics and operations classes in engineering courses;
 -   Coordinator of enginnering courses;
+
+**METROPOLITAN UNIVERSITY CENTER OF AMAZON** *PROFESSOR* [2016] to [2020]
+-   http://sites.ufca.edu.br/ebooks/wp-content/uploads/sites/22/2018/11/EPPEI-1-final.pdf (publication of EduScrum in university class rooms)
+-   Responsible with Operation Classes in Business courses;
+-   Responsible with Statistics Classes;
+-   Responsible with Operational Research in Production Engineering course;
 
 **PREMAZON** *REGIONAL MANAGER* [2010] to [2015]
 - Regional manager of manufacturing plants.
 
 **INDUSTRIAL AND STATISTICS DATA CONSULTANT** [2010][present]
 
+**BUSINESS MANAGEMENT CONSULTANT** [2010][present]
 
 ### EXPERTISE
--   Ruby on Rails, Postgres, MySQL, Cloud AWS & Azure, Heroku, VScode, CloudTree, Bootstrap,
--   Algorithms and Logic using Ruby, Java ans Javascript, but open to learn new coding languages and frameworks.
+- Ruby on Rails, Postgres, MySQL, Cloud AWS & Azure, Heroku, VScode, CloudTree, Bootstrap,
+- Algorithms and Logic using Ruby, Java ans Javascript, but open to learn new coding languages and frameworks.
 - Industrial Plant management, teams management and class teaching - using SCRUM, JIRA and other frameworks (including [EduScrum](https://www.scrum.org/) in classes since 2017)
 - ISO and PROCEM regulation,quality assurance of manufacturing process.
--  advanced English (Certification: FCE Cambridge)
+- Advanced English (Certification: FCE Cambridge)
 
 ### FORMAL EDUCATION
-**SYSTEM ANALYSIS AND DEVELOPMENT** *SENAC Santo Amaro* [2021] to [mid 2023]
+**SYSTEM ANALYSIS AND DEVELOPMENT** *UNG* [2021] to [2022]
 - Technologic Degree
 
 **CIVIL ENGINEER** *University of Amazon* [2013] to [2015]
