@@ -5,7 +5,7 @@
 - github: https://github.com/afonsolelis
 - Lattes: out of work. (escavador: https://www.escavador.com/sobre/581893/afonso-cesar-lelis-brandao not updated)
 
-[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default&show_icons=true)](https://github.com/iuricode/)
+[![card](https://github-readme-stats.vercel.app/api?username=afonsolelis&theme=dark&show_icons=true)](https://github.com/afonsolelis/)
 
 ## AFONSO CESAR LELIS BRANDÃO
 
