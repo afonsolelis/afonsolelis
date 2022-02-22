@@ -19,5 +19,5 @@
         <a href="https://stackshare.io/github" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="github" width="40" height="40" /></a>
         <a href="https://stackshare.io/linux" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /></a>
         <a href="https://stackshare.io/ubuntu" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40" /></a>
-	<a href="https://stackshare.io/apple" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/ubuntu/apple-original.svg" alt="apple" width="40" height="40" /></a>
+	<a href="https://stackshare.io/apple-original" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/ubuntu/apple-original.svg" alt="apple-original" width="40" height="40" /></a>
     </p>
