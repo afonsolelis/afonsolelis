@@ -1,19 +1,3 @@
-<img src="Logo.png" align="left" width="200px"/>
-Name: Afonso Lelis
-<br>
-OS: MacOS / ElementaryOS
-<br>
-Location: Brasil
-<br>
-Hobbies: Gamer && Reader
-<br>
-Projetos: seus-projetos
-<br>
-Linguagem-Favorita: Ruby :)
-<br>
-Aprendendo: Java
-
-
 **Contact Info**
 - e-mail: afonsolelis@gmail.com
 - mobile: +5511978105781 [whatsapp][telegram]
